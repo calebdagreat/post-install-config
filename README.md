@@ -33,25 +33,62 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="600" alt="Screenshot 2024-06-11 at 9 32 53 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/21ea56e4-9be5-48e0-82bc-d05942b96682">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+  
+- Configure Roles
+- Create "Supreme Admin" Role
+- Configure Permissions to All Access 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="600" alt="Screenshot 2024-06-11 at 9 37 03 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/253e6d0f-c5b0-42e2-92ea-110cd1ffe995">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+- Configure Departments
+- Create "System Administrators" Department 
 </p>
 <br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 9 44 11 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/c598053d-6719-4292-990f-380b424f2c45">
+</p>
+<p>
+  
+- Configure Teams
+- Create "Level II" Support
+</p>
+<br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 10 05 05 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/2590296b-07fb-4db3-8c9b-ff01e0bd855e">
+</p>
+<p> 
+  
+- Allow anyone to create tickets
+</p>
+<br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 9 37 03 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/253e6d0f-c5b0-42e2-92ea-110cd1ffe995">
+</p>
+<p>
+  
+- Configure Departments
+- Create "System Administrators" Department 
+</p>
+<br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 9 44 11 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/c598053d-6719-4292-990f-380b424f2c45">
+</p>
+<p>
+  
+- Configure Teams
+- Create "Level II" Support
+</p>
+<br />
+
