@@ -28,6 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Allow anyone to create tickets
 - Configure Agents (workers)
 - Configure Users (customers)
+- Configure SLA
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
@@ -73,22 +74,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img width="600" alt="Screenshot 2024-06-11 at 9 37 03 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/253e6d0f-c5b0-42e2-92ea-110cd1ffe995">
+<img width="600" alt="Screenshot 2024-06-11 at 10 09 46 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/d3b6c3b8-cd6f-4961-ba4a-e119564eb8da">
 </p>
 <p>
   
-- Configure Departments
-- Create "System Administrators" Department 
+- Configure Agents (workers)
+- i. Khamron Bey
+- ii. Kristian Bey
 </p>
 <br />
 
 <p>
-<img width="600" alt="Screenshot 2024-06-11 at 9 44 11 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/c598053d-6719-4292-990f-380b424f2c45">
+<img width="600" alt="Screenshot 2024-06-11 at 10 14 55 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/3a60b8fc-5fd1-4ede-b320-1815c5b0eba1">
 </p>
 <p>
   
-- Configure Teams
-- Create "Level II" Support
+- Configure Users (customers)
+- i. Jahzara Lander
+- ii. Zuriel Jah-Lion Lander-El
+</p>
+<br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 10 16 19 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/3a52c5d2-46be-424e-a215-85b9fbb6c379">
+<img width="600" alt="Screenshot 2024-06-11 at 10 16 51 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/c88b64e2-7dfc-4dc1-8c21-5b3d63dc054a">
+<img width="981" alt="Screenshot 2024-06-11 at 10 17 19 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/e6e7e023-b970-4f7c-a5e8-6ddc939e749a">
+
+</p>
+<p> 
+  
+- Configure SLA
+- i. Sev-A (1 hour, 24/7)
+- ii. Sev-B (4 hours, 24/7)
+- iii. Sev-C (8 hours, business hours)
+</p>
+<br />
+
+<p>
+<img width="600" alt="Screenshot 2024-06-11 at 10 20 45 PM" src="https://github.com/calebdagreat/post-install-config/assets/171304036/9bfdbab3-eabf-4aac-90c2-db3f7a6b9fbf">
+</p>
+<p> 
+  
+- Configure Help Topics
+- i. Business Critical Outage 
+- ii. Personal Computer Issues
+- iii. Equipment Request
+- iv. Password Reset
+  
 </p>
 <br />
 
