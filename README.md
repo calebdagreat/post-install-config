@@ -116,7 +116,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p> 
   
 - Configure Help Topics
-- i. Business Critical Outage 
+- i. Business Critical Outage (Priority should be changed to "High")
 - ii. Personal Computer Issues
 - iii. Equipment Request
 - iv. Password Reset
